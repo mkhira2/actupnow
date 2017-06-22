@@ -218,7 +218,8 @@ p {
   }
 
   nav {
-    display: none;
+    display: flex;
+    flex-direction: column;
   }
 
   .profiles {
