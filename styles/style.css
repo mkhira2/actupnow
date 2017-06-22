@@ -211,6 +211,21 @@ p {
   font-weight: bold;
 }
 
+.testimonial-pic {
+  padding-top: 20px;
+}
+
+blockquote {
+  border-left: 1px solid black;
+  padding-left: 20px;
+  color: grey;
+  font-size: 24px;
+}
+
+footer {
+  text-align: right;
+}
+
 @media (max-width: 749px) {
   .container {
     margin: 0;
