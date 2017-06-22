@@ -220,4 +220,9 @@ p {
   nav {
     display: none;
   }
+
+  .profiles {
+    flex-direction: column;
+    align-items: center;
+  }
 }
