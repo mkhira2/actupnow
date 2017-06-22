@@ -212,7 +212,7 @@ p {
   font-weight: bold;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 749px) {
   .container {
     margin: 0;
   }
