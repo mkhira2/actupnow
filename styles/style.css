@@ -140,11 +140,13 @@ li {
   text-decoration: none;
 }
 
+.info-gathering {
+  max-width: 100%;
+}
+
 .gather {
   display: flex;
   flex-direction: column;
-  /*font-size: 30px;
-  text-align: center;*/
   padding: 20px;
 }
 
