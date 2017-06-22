@@ -143,9 +143,9 @@ li {
 .gather {
   display: flex;
   flex-direction: column;
-  font-size: 30px;
-  text-align: center;
-  padding: 30px;
+  /*font-size: 30px;
+  text-align: center;*/
+  padding: 20px;
 }
 
 input {
