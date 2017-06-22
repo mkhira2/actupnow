@@ -247,6 +247,16 @@ footer {
   font-weight: normal;
 }
 
+.package-pic {
+  width: 20%;
+  padding-top: 20px;
+  margin: 25px;
+}
+
+a.gwt-Anchor.ecwid-productBrowser-auth-signInLink {
+  display: none;
+}
+
 @media (max-width: 749px) {
   .container {
     margin: 0;
