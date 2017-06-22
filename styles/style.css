@@ -226,6 +226,14 @@ footer {
   text-align: right;
 }
 
+.contact-img {
+  padding-top: 20px;
+}
+
+.contact-text {
+  font-weight: normal;
+}
+
 @media (max-width: 749px) {
   .container {
     margin: 0;
