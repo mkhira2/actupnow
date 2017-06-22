@@ -10,6 +10,14 @@ body {
   background: rgb(42,87,144);
 }
 
+nav a:hover {
+  color: black;
+}
+
+.active-page {
+  color: black;
+}
+
 .container {
    background: white;
    margin:  50px 150px;
@@ -178,6 +186,30 @@ button[type=submit]:hover {
 h5 {
   font-weight: normal;
   color: grey;
+}
+
+.profiles {
+  display: flex;
+  justify-content: space-between;
+}
+
+.david-hira-profile, .mike-arthur-profile {
+  width: 45%;
+}
+
+.profile-picture {
+  width: 400px;
+  height: 450px;
+}
+
+p {
+  color: darkslategrey;
+  font-size: 20px;
+}
+
+.profile-insert {
+  font-style: italic;
+  font-weight: bold;
 }
 
 @media (max-width: 750px) {
