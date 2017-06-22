@@ -198,8 +198,7 @@ h5 {
 }
 
 .profile-picture {
-  width: 400px;
-  height: 450px;
+  width: 100%;
 }
 
 p {
