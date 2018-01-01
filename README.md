@@ -11,7 +11,7 @@ This is a webpage for one of my dad's businesses. It is currently hosted on squa
 ```
 git clone https://github.com/mkhira2/actupnow.git
 cd actupnow
-open index.html
+open home.html
 ```
 
 ## License
